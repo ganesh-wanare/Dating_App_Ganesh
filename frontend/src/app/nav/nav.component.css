@@ -1,0 +1,8 @@
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;    
+}
+
+
+#app-navbar {
+    background: linear-gradient(175deg, #070706, #12e795, #070706)
+}
