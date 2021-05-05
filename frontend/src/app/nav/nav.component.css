@@ -4,5 +4,12 @@
 
 
 #app-navbar {
-    background: linear-gradient(175deg, #070706, #12e795, #070706)
+    background: linear-gradient(178deg, #2c3e50, #4ca1af)
+}
+
+.body{
+    background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
